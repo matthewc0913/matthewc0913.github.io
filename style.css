@@ -35,13 +35,13 @@ a {
 }
 
 .bg-1 {
-    background-color: #4d4dff; /* White */
-    color: #4d4dff;
+    background-color: #ffffff; /* White */
+    color: #555555;
 }
 
 .bg-2 {
-    background-color: #4d4dff; /* Blue */
-    color: #4d4dff;
+    background-color: #2e72a1; /* Blue */
+    color: #ffffff;
 }
 
 .card {
@@ -54,13 +54,13 @@ a {
 }
 
 .bg-3 {
-    background-color: #4d4dff
-    color: #4d4dff;
+    background-color: #000000; /* Black */
+    color: #ffffff;
 }
 
 .bg-4 {
-    background-color: #4d4dff; 
-    color: #4d4dff;
+    background-color: #343a40; /* Dark Gray */
+    color: #fff;
 }
 
 .container-fluid {
@@ -79,5 +79,5 @@ a {
 }
 
 .navbar-nav li a:hover {
-    color: #4d4dff !important;
+    color: #2e72a1 !important;
 }
